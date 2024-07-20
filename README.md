@@ -1,2 +1,3 @@
 # delta-demo
-this is a demo for get demo classes
+this is a demo class for get and get-hub
+
